@@ -37,8 +37,8 @@
                     <div class="jumbotron" style="height: 500px" >
                         <h1>Último Jogo:</h1>
                         <br>
-                        <h3>CARLOS BARBOSA XIMANGOS: <%= informacao.getJogo().getPontuacaotime()%></h3>
-                        <h3><%= informacao.getJogo().getAdversario().getNome()%>: <%= informacao.getJogo().getPontuacaoadversario()%></h3 >
+                        <h3>XIMANGOS: 25</h3>
+                        <h3>BULLDOGS: 15</h3>
                         <br>
                         <br>
                         <h1>Jogadores: <%= informacao.getJogadores() %></h1>
